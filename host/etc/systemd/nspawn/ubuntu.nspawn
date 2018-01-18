@@ -1,0 +1,6 @@
+[Exec]
+Boot=true
+
+[Files]
+BindReadOnly=/etc/resolv.conf
+
